@@ -1,0 +1,17 @@
+- [x] Monarchy
+- [x] Autocracy
+- [x] Racial Segregation
+- [ ] Total Separation
+- [x] Appointed Bureaucrats
+- [x] Pro Army/ Mass Conscription
+- [ ] Secret Police
+- [x] Free Trade
+- [x] Laissez Faire
+- [x] Best tax law
+- [ ] Comm Agri
+- [ ] Colonial Exploitation
+- [x] Dedicated police
+- [x] Public Schools
+- [x] Public Health
+- [ ] Right of Assembly
+- [ ] Liberal human rights laws
