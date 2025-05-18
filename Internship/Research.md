@@ -1,6 +1,6 @@
 ---
 Due Date:
-Status: Doing
+Status: Done
 ---
 
 Research on other Publishing house websites to see what's common in the industry.
